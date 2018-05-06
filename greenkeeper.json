@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "doc/files/package.json.md",
+        "package.json"
+      ]
+    }
+  }
+}
