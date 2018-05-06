@@ -1,6 +1,8 @@
 npm(1) -- a JavaScript package manager
 ==============================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CrownBonded/npm.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg)](https://travis-ci.org/npm/npm)
 
 ## SYNOPSIS
